@@ -1,0 +1,32 @@
+img{
+    height:265px ;
+    width: 265px;
+    margin: 15px;
+}
+h1{
+    text-decoration: underline;
+    font-size: 24px;
+    text-align: center;
+    font-family: verdana;
+}
+div{
+    border-width: 40px;
+    border-style: dashed;
+    background-color: rgb(216, 253, 241);
+    width: 600px;
+    margin: 50px auto;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    font-family: "Lucida Sans";
+}
+span{
+    font-weight: bold;
+}
+a{
+    margin: 15px;
+    text-decoration: none;
+    background-color: rgb(0, 17, 252);
+    color: rgb(238, 238, 238);
+}

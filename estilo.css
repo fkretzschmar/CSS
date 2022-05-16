@@ -1,0 +1,24 @@
+div{
+    margin:10px auto;
+    width:500px;
+    background-color: rgb(186, 186, 247);
+}
+h1{
+    font-size:30px;
+    text-decoration: underline;
+    font-family: impact;
+    text-align: center;
+}
+p{
+    font-size: verdana;
+    line-height: 30px;
+}
+img{
+    width: 150px;
+    height: 170px;
+}
+a{font-size: 18px;
+    font-family: Verdana;
+    background-color: #006db8;
+    color: #fff;
+    text-decoration: none;}
