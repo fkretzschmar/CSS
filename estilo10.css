@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .secao-topo {
+    background-image: url("https://s2.glbimg.com/GvMteg1seHHXVrbfog2QU7R1QiA=/0x0:1920x1081/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/M/r/8dMyuXSJq69KdiXUNsGA/doutor-estranho-capa.jpg");
+    background-attachment: fixed;
+    min-height: 600px;
+    text-align: center;
+    padding: 50px;
+    background-size: cover;
+  }
+  
+  h1, h2 {
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  h1 {
+    background-color: #000;
+  }
+  
+  h2 {
+    background-color: #f00;
+  }
+  
+  .secao-conteudo {
+    width: 800px;
+    margin: 0 auto;
+    padding: 50px 20px;
+  }
+  
+  .secao-conteudo img {
+    width: 200px;
+    height: 250px;
+  }
+  
+  .secao-divulgacao {
+    background-image: url("http://disneyplusbrasil.com.br/wp-content/uploads/2022/04/Marvel-Doutor-Estranho-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+  }
+  
+  p {
+    line-height: 26px;
+  }
+  
+  span{
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 25px;
+  }
+  .secao-conteudo h3{
+      text-align: center;
+      background-color: black;
+      color: white;
+      border-radius: 30px;
+      font-weight: bold;
+      border-left: 5px solid red;
+      border-right: 5px solid red;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .secao-conteudo a{
+      border: 5px solid black;
+      color: white;
+      background-color: red;
+      font-weight: bold;
+      padding: 10px;
+      text-decoration: none;
+  }
