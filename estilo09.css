@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-image: url("http://www.devmedia.com.br/arquivos/cursos/css_background/embed/aula3/img1.jpg");
+}
+.secao-topo {
+    background-color:rgb(56, 146, 248);
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: verdana;
+}
+.secao {
+    color: rgb(201, 201, 201);
+    font-family: italic;
+    font-size: 16px;
+    width: 600px;
+    margin: 20px auto;
+    line-height: 48px;
+    text-align: left;
+}
+.secao span{
+    font-weight: bold;
+    font-family: verdana;
+    color:white
+}
+.secao p{
+    text-align: center;
+}
+.box-compra{
+    border: 5px double white;
+    color: white;
+    text-align: center;
+}
+.box-compra a{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: verdana;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 30px;
+}
