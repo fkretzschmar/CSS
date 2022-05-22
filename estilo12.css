@@ -1,0 +1,124 @@
+p{
+    font-family: verdana;
+    font-size: 12px;
+    text-align: left;
+    line-height: 30px;
+}
+.vermelho {
+    font-weight: bold;
+    color: red;
+    font-family: verdana;
+}
+.negrito {
+    font-weight: bold;
+    font-family: verdana;
+}
+.secao-topo{
+    margin: 0;
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    font-size: 10px;
+}
+.imagem-topo {
+    color: white;
+    min-height: 600px;
+    background-image: url('https://www.fazcomex.com.br/blog/wp-content/uploads/2020/04/canada-flag-with-mountain-range-view-756790.jpg');
+    background-size: cover;
+}
+.conteudo-topo {
+    font-size: 50px;
+    padding-top: 30px;
+    padding-right: 120px;
+    color: black;
+    text-align: right;
+}
+.secao-sobre, .secao-toronto, .secao-cataratas, .secao-aquarium, .secao-tower {
+    width: 600px;
+    margin: 30px auto;
+}
+img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 5px solid black;
+}
+h3{
+    text-align: center;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 3px solid red;
+}
+.secao-fixado{
+    width: 800px;
+    margin: 0 auto;
+}.fixada-toronto{
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+    background-image: url("https://ci-prod.imgix.net/upload/galeriadeimagens/00204235.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fixada-cataratas{
+    color: black;
+    padding: 80px 0;
+    text-align: center;
+    background-image: url("https://www.ie.com.br/wp-content/uploads/2021/11/niagara-falls.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fixada-aquarium {
+    color: black;
+    padding: 80px 0;
+    text-align: center;
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/18/2a/d5/f0/ripleys-aquarium-bestoftoronto.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fixada-tower {
+    color: black;
+    padding: 80px 0;
+    text-align: center;
+    background-image: url("http://f.i.uol.com.br/fotografia/2016/07/20/623758-970x600-1.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fixada-canada {
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+    background-image: url("https://viagemeturismo.abril.com.br/wp-content/uploads/2011/09/14725706608_06a62c13c6_k.jpg?quality=70&strip=info&w=1024&resize=1200,800");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.compra{
+    width: 600px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 30px;
+    text-align: center;
+}
+.compra h4{
+    font-size: 30px;
+}
+.compra a{
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 240px;
+}
+
